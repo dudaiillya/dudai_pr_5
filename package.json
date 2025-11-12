@@ -1,0 +1,12 @@
+{
+  "name": "dudai_pr_5",
+  "version": "1.0.0",
+  "description": "Практична робота з generic типами у TypeScript",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
